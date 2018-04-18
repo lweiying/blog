@@ -1,5 +1,5 @@
 #!/bin/bash  
-   cd /data/www/kangbazi/szkangbazi #这就是你的本地仓库目录
+   cd /data/www/blog/blog #这就是你的本地仓库目录
 
    git checkout my 
    git add .
